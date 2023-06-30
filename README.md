@@ -24,8 +24,8 @@
 
 # 📖 Morse Code <a name="about-project"></a>
 
-**Morse Code** is a  simple app that is used to decrypt messages manually. The methods allows to you to pass in your 
-code as a parameters and then translate the code for you in an plain English.
+**Morse Code** is a  simple app that is used to decrypt messages. The methods allows to you to pass in your 
+code as a parameters and then translate the it to a plain English.
 
 ## 🛠 Built With <a name="built-with"></a>
 
