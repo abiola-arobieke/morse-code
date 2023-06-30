@@ -99,7 +99,7 @@ Open the project on your code editor
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[And method]**
+- [ ] **[And method for encrypting a word or sentence]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
