@@ -48,3 +48,10 @@ def decode_sentence(message)
   end
   statement
 end
+
+# Decode a message
+get_message = decode_sentence('-- -.--   -. .- -- .')
+puts get_message
+# Decode the message from the old bottle:
+get_sentence = decode_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+puts get_sentence
