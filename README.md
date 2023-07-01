@@ -10,8 +10,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
@@ -24,8 +23,8 @@
 
 # 📖 Morse Code <a name="about-project"></a>
 
-**Morse Code** is a  simple app that is used to decrypt messages. The methods allows to you to pass in your 
-code as a parameters and then translate the it to a plain English.
+**Morse Code** is a  simple app used to decrypt messages. The methods allow to you to pass in your 
+code as a parameter and then translate it to plain English.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,10 +43,6 @@ code as a parameters and then translate the it to a plain English.
 - **Create a method to decode the entire message in Morse code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Comming Soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +83,13 @@ Open the project on your code editor
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Javed Shahbaz**
+
+- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
+- Twitter: [@javedshahbaz007](https://twitter.com/javedshahbaz007)
+- LinkedIn: [@javedshahbaz](https://www.linkedin.com/in/javedshahbaz/)
+
+👤 **Abiola Arobieke**
 
 - GitHub: [@abiola-arobieke](https://github.com/abiola-arobieke)
 - Linkedin: [@abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
